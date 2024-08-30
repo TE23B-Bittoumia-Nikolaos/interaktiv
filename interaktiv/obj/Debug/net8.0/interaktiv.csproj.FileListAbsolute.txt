@@ -1,0 +1,15 @@
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfoInputs.cache
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfo.cs
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.csproj.CoreCompileInputs.cache
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.sourcelink.json
+c:\programering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.exe
+c:\programering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.deps.json
+c:\programering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.runtimeconfig.json
+c:\programering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.dll
+c:\programering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.pdb
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.dll
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\refint\interaktiv.dll
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.pdb
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.genruntimeconfig.cache
+c:\programering 1\interaktiv\interaktiv\obj\Debug\net8.0\ref\interaktiv.dll

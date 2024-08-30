@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Är du lång");
+string tall = Console.ReadLine();
+
+if (tall == "ja")
+{
+ Console.WriteLine("Kul för dig!");
+
+}
+
+
+
+Console.ReadLine();
